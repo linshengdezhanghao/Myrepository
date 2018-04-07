@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1522600769 source:c:\users\ls\desktop\practice\20180128\createclass\main.cpp
+	<stdio.h>
+	"ObjectFactory.h"
+	"Object.h"
+	<iostream>
+	<typeinfo>
+	<iomanip>
+
+1517156856 c:\users\ls\desktop\practice\20180128\createclass\objectfactory.h
+	<map>
+	<string>
+
+1517156944 c:\users\ls\desktop\practice\20180128\createclass\object.h
+	"ObjectFactory.h"
+
+1517156807 c:\users\ls\desktop\practice\20180128\createclass\objecta.h
+	"Object.h"
+
+1517156807 c:\users\ls\desktop\practice\20180128\createclass\objectb.h
+	"Object.h"
+

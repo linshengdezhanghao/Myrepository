@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1487861166 source:c:\users\ls\desktop\practice\practice_go\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1487861536 source:c:\users\ls\desktop\practice\practice_go\app.c
+
+1487861666 source:c:\users\ls\desktop\practice\practice_go\bpp.c
+
+1487861778 source:c:\users\ls\desktop\practice\practice_go\cpp.c
+

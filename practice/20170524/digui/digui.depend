@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495639715 source:c:\users\ls\desktop\20170524\digui\main.c
+	<stdio.h>
+	<stdlib.h>
+

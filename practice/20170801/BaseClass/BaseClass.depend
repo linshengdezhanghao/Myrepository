@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1501603867 source:c:\users\ls\desktop\practice\20170801\baseclass\main.cpp
+	<iostream>
+	<string.h>
+	<baseclass.h>
+
+1501603850 c:\users\ls\desktop\practice\20170801\baseclass\\baseclass.h
+
+1501603310 source:c:\users\ls\desktop\practice\20170801\baseclass\baseclass.cpp
+	<iostream>
+	<baseclass.h>
+
+1501602700 source:c:\users\ls\desktop\practice\20170801\baseclass\secondclass.cpp
+

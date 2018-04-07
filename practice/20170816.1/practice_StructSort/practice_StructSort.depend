@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1502815068 source:c:\users\ls\desktop\20170812.1\practice_structsort\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<list>
+
+1503847197 source:c:\users\ls\desktop\practice\20170816.1\practice_structsort\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<list>
+

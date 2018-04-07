@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522591032 source:c:\users\ls\desktop\practice\20180401\practice\main.cpp
+	<iostream>
+	<stdio.h>
+	<list>
+	<string.h>
+	<string>
+

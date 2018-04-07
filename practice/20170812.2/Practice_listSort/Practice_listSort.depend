@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1502556164 source:c:\users\ls\desktop\practice\20170812.2\practice_listsort\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<list>
+
